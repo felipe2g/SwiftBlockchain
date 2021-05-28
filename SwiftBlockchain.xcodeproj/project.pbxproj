@@ -13,6 +13,7 @@
 		A53A02EC26600F9900665B23 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A53A02EB26600F9900665B23 /* Assets.xcassets */; };
 		A53A02EF26600F9900665B23 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A53A02EE26600F9900665B23 /* Preview Assets.xcassets */; };
 		A53A02F226600F9900665B23 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A53A02F026600F9900665B23 /* LaunchScreen.storyboard */; };
+		A5457F882660FCA500748098 /* Block.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5457F872660FCA500748098 /* Block.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		A53A02EE26600F9900665B23 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		A53A02F126600F9900665B23 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A53A02F326600F9900665B23 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A5457F872660FCA500748098 /* Block.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Block.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				A53A02E526600F9500665B23 /* AppDelegate.swift */,
 				A53A02E726600F9500665B23 /* SceneDelegate.swift */,
 				A53A02E926600F9500665B23 /* ContentView.swift */,
+				A5457F872660FCA500748098 /* Block.swift */,
 				A53A02EB26600F9900665B23 /* Assets.xcassets */,
 				A53A02F026600F9900665B23 /* LaunchScreen.storyboard */,
 				A53A02F326600F9900665B23 /* Info.plist */,
@@ -146,6 +149,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A53A02E626600F9500665B23 /* AppDelegate.swift in Sources */,
+				A5457F882660FCA500748098 /* Block.swift in Sources */,
 				A53A02E826600F9500665B23 /* SceneDelegate.swift in Sources */,
 				A53A02EA26600F9500665B23 /* ContentView.swift in Sources */,
 			);
